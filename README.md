@@ -1,7 +1,5 @@
-# <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
+#
 - A Java Web Developement Project
-- **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
-- **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
 <!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
 - User Login Credentials: (shashi/shashi)
 - Admin Login Credentials: (Admin/Admin)
@@ -114,13 +112,8 @@ Step 3: [Only If Tomcat Server is not configured in Eclipse] : Right Click On Pr
 Step 4: In The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save.
 
 Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > Next > Add All> Done.
-
-Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8083/onlinebookstore/</a>
-
 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
-
 Step 8: The default Username And Password For User Is "shashi" And "shashi"
-
 ## FAQ
 **Question:1** Unable to Connect to Database?
 
@@ -139,5 +132,5 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                    
+                                                                                                         
